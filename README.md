@@ -1,8 +1,15 @@
-# System.out.print("Hello! Welcome to my Page!");
+<!-- Introduction -->
+# Hello and Welcome! I'm Abraham👋🏽
+
+<!-- About me -->
+## About me:👽
+I am currently attending Roosevelt University, majoring in Computer Science. I worked in 
 
 <!-- Intsert a picture or banner -->
 I am Abraham, a student at Roosevelt University, majoring in Computer Science. Since 2020, I've been working in IT specifically in the desktop, helpdesk, and assest management space. I decided to return to school as a full time student to expand my knowledge and skill set in software engineering. Coding has always been a hobby for me due to its task to manipulate. I'm currently learning Java, Python, and SQL.
 
+<!-- Current Study -->
+## Currently Learning:
 
 
 ## Connect with ME on LinkedIn!
